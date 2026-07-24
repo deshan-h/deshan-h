@@ -1,184 +1,70 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--title-->
-<h2 align="center">Hi 👋! I'm Deshan Hettiarachchi</h2>
-
-###
-<!--- snake -->
+<!-- Waving Animated Header -->
 <div align="center">
-    <a href="https://github.com/psnwd">
-        <img
-            src="https://raw.githubusercontent.com/psnwd/psnwd/1ca53178f6deca37158f3b18b2288cb4cb4a82fa/grid-snake.svg"
-            alt="snake"
-        />
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Deshan%20Hettiarachchi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20React.js&descAlignY=51&descAlign=62" alt="Header" />
 </div>
 
-###
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
-  </ul>
+<!-- Typing Text Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Expert+in+Laravel,+Vue.js,+and+React.js;Architecting+Scalable+Enterprise+Systems;Optimized+50M%2B+Record+Databases" alt="Typing SVG" />
+  </a>
 </div>
 
-###
+<br/>
+
+### 👨‍💻 About Me
 
 <p align="left">
-    
-<p align="left">
-🤝 Actively seeking collaborations in the field of Software Development 
-🌱 Proficient in Java, SpringBoot, MySQL, Javascript, ReactJS, ReactTS,  and Tailwind 
-💬 Feel free to ask me about anything related to Javascript or React 
-📫 You can reach out to me at <a href="mailto:deshanhettiarachchi98@gmail.com"> deshanhettiarachchi98@gmail.com </a> </p>
+  <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Animated Coding GIF">
+  
+  🏆 <b>Star Performer Award (Dec 2024)</b> winner at Parallax Technologies Pvt Ltd.<br><br>
+  🚀 Over 3 years of experience optimizing heavy enterprise databases (<b>50M+ records</b>) and slashing server costs.<br><br>
+  🛠️ Specialized in <b>Laravel, Vue.js, React.js</b>, and orchestrating CI/CD pipelines via Jenkins & GitHub Actions.<br><br>
+  🎥 Tech Content Creator at <b>@deshonlineLK</b> (14k+ followers on TikTok/YouTube).<br><br>
+  📫 Reach me via: <a href="mailto:deshanhettiarachchi98@gmail.com"><b>Email</b></a> | <b>+94 71998 9000</b><br><br>
+  🌐 Portfolio: <a href="https://deshanparallax.github.io/portfolio"><b>deshanparallax.github.io/portfolio</b></a>
 </p>
 
-###
+<br clear="all">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">💻 Tech Stack</h2></summary>
-  </ul>
-</div>
+### ⚡ Tech Stack
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="50" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="50" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="50" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="50" alt="xd logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=replit" height="50" alt="replit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
-</div>
-
-###
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary> 
-  </ul>
-</div>
-
-###
-
+<!-- Animated and attractive skill icons -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/deshanparallax/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,react,tailwind,nodejs,java&perline=8" alt="Skills 1" />
   </a>
-  <a href="https://twitter.com/Sanidu_Udawatta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/sanidudawatta" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="47" height="35" alt="hackerrank logo"  />
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,linux,jenkins,githubactions,git,figma&perline=8" alt="Skills 2" />
   </a>
 </div>
 
-###
+<br>
 
-###
+### 📊 GitHub Analytics
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deshanparallax&label=Profile%20views&color=0e75b6&style=flat" alt="deshanparallax" /> </p>
-
-###
-
-###
-
-<!--- stats & Trophy (start) -->
+<!-- Live GitHub Stats & Streak Cards (Fixed version) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=deshanparallax&theme=algolia&show_icons=true&count_private=true&rank_icon=github" />
-  
-</br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=deshanparallax&theme=algolia&hide_border=false" /> 
-</td>
+  <a href="https://github.com/deshanparallax">
+    <img src="https://github-readme-stats.vercel.app/api?username=deshanparallax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Deshan's GitHub stats" height="195" />
+  </a>
+  <a href="https://github.com/deshanparallax">
+    <img src="https://streak-stats.demolab.com/?user=deshanparallax&theme=radical&hide_border=true&background=0D1117" alt="Deshan's Streak" height="195" />
+  </a>
+</p>
 
-<td width="50%" align="center">
+<br>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshanparallax&layout=donut-vertical&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+### 🚀 Highlighted Projects
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🏆 GitHub Trophies</h2></summary>
-  </ul>
+* 📦 **Curfox Courier Management System:** Enterprise-grade platform. Optimized a PostgreSQL/MySQL database of **50M+ records** via partitioning and Redis, ensuring 99.9% uptime and faster dispatching.
+* 🛒 **Business Website & POS Admin Dashboard:** Modern SPA for a commercial print shop using **React.js, Tailwind CSS, and Firebase** with WhatsApp digital billing.
+* 💰 **Advanced Expense & Finance Tracker:** High-performance SPA utilizing custom React hooks and interactive Recharts analytics.
+
+<br>
+
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=deshanparallax&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=deshanparallax&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-</p>        
-<!--- stats (end) -->
-
-###
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
- 
