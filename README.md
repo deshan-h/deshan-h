@@ -1,12 +1,12 @@
-<!-- Waving Animated Header -->
+<!-- Waving Animated Header (Purple + Black) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Deshan%20Hettiarachchi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20React.js&descAlignY=51&descAlign=62" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000000,4B0082&height=250&section=header&text=Deshan%20Hettiarachchi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%7C%20Vue.js%20%7C%20React.js&descAlignY=51&descAlign=62&fontColor=ffffff" alt="Header" />
 </div>
 
-<!-- Typing Text Animation -->
+<!-- Typing Text Animation (Purple Theme) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Expert+in+Laravel,+Vue.js,+and+React.js;Architecting+Scalable+Enterprise+Systems;Optimized+50M%2B+Record+Databases" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Expert+in+Laravel,+Vue.js,+and+React.js;Architecting+Scalable+Enterprise+Systems;Optimized+50M%2B+Record+Databases" alt="Typing SVG" />
   </a>
 </div>
 
