@@ -12,6 +12,19 @@
 
 <br/>
 
+<!-- Social Media & Portfolio Links -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/deshan-hettiarachchi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@deshonlinelk">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://deshan-h.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
 <!-- Clean & Professional About Me Section -->
 <h2 align="center">About Me & My Journey</h2>
 
