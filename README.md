@@ -103,20 +103,29 @@
   <img src="https://img.shields.io/badge/DeepSeek-1A202C?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
 </div>
 
+<h3 align="center">🎨 Design & Multimedia</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
+</div>
 <br>
 
 <h2 align="center">📊 GitHub Analytics & Achievements</h2>
 
-<!-- Creative GitHub Trophies -->
+<!-- NEW WIDGETS: GitHub Stats & Productive Time (Replaced Trophies) -->
 <div align="center">
   <a href="https://github.com/deshan-h">
-    <img src="https://github-profile-trophy.vercel.app/?username=deshan-h&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deshan-h&theme=tokyonight" alt="Deshan's Stats" />
+  </a>
+  <a href="https://github.com/deshan-h">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deshan-h&theme=tokyonight&utcOffset=5.5" alt="Deshan's Productive Time" />
   </a>
 </div>
 
 <br>
 
-<!-- NEW WIDGETS: Profile Summary Cards & Activity Graph -->
+<!-- Profile Summary Cards -->
 <div align="center">
   <a href="https://github.com/deshan-h">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deshan-h&theme=tokyonight" alt="Deshan's Profile Details" />
@@ -128,7 +137,7 @@
 
 <br>
 
-<!-- GitHub Activity Graph (Displays a chart of your contributions) -->
+<!-- GitHub Activity Graph -->
 <div align="center">
   <a href="https://github.com/deshan-h">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=deshan-h&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Deshan's Activity Graph" />
