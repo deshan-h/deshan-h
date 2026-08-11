@@ -113,8 +113,8 @@
 
 <!-- Creative GitHub Trophies -->
 <div align="center">
-  <a href="https://github.com/deshanparallax">
-    <img src="https://github-profile-trophy.vercel.app/?username=deshanparallax&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <a href="https://github.com/deshan-h">
+    <img src="https://github-profile-trophy.vercel.app/?username=deshan-h&theme=dracula&no-bg=true&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -122,11 +122,11 @@
 
 <!-- Stats and Streak Cards with dark theme matching -->
 <div align="center">
-  <a href="https://github.com/deshanparallax">
-    <img src="https://github-readme-stats.vercel.app/api?username=deshanparallax&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Deshan's GitHub stats" height="195" />
+  <a href="https://github.com/deshan-h">
+    <img src="https://github-readme-stats.vercel.app/api?username=deshan-h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Deshan's GitHub stats" height="195" />
   </a>
-  <a href="https://github.com/deshanparallax">
-    <img src="https://streak-stats.demolab.com/?user=deshanparallax&theme=tokyonight&hide_border=true&background=0D1117" alt="Deshan's Streak" height="195" />
+  <a href="https://github.com/deshan-h">
+    <img src="https://streak-stats.demolab.com/?user=deshan-h&theme=tokyonight&hide_border=true&background=0D1117" alt="Deshan's Streak" height="195" />
   </a>
 </div>
 
@@ -134,8 +134,8 @@
 
 <!-- Top Languages Card -->
 <div align="center">
-  <a href="https://github.com/deshanparallax">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshanparallax&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" height="195" />
+  <a href="https://github.com/deshan-h">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan-h&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" height="195" />
   </a>
 </div>
 <br>
@@ -164,10 +164,10 @@
 <br>
 
 <p align="center">
-  <i>For comprehensive details, live demos, and technical breakdowns, please visit my portfolio at <a href="https://deshanparallax.github.io/portfolio">deshanparallax.github.io/portfolio</a></i>
+  <i>For comprehensive details, live demos, and technical breakdowns, please visit my portfolio at <a href="https://deshan-h.github.io/portfolio">deshan-h.github.io/portfolio</a></i>
 </p>
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deshanparallax&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=deshan-h&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
