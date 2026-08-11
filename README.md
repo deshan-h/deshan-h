@@ -103,12 +103,6 @@
   <img src="https://img.shields.io/badge/DeepSeek-1A202C?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
 </div>
 
-<h3 align="center">🎨 Design & Multimedia</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
-</div>
 <br>
 
 <h2 align="center">📊 GitHub Analytics & Achievements</h2>
@@ -122,24 +116,25 @@
 
 <br>
 
-<!-- Stats and Streak Cards with dark theme matching -->
+<!-- NEW WIDGETS: Profile Summary Cards & Activity Graph -->
 <div align="center">
   <a href="https://github.com/deshan-h">
-    <img src="https://github-readme-stats.vercel.app/api?username=deshan-h&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Deshan's GitHub stats" height="195" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deshan-h&theme=tokyonight" alt="Deshan's Profile Details" />
   </a>
   <a href="https://github.com/deshan-h">
-    <img src="https://streak-stats.demolab.com/?user=deshan-h&theme=tokyonight&hide_border=true&background=0D1117" alt="Deshan's Streak" height="195" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deshan-h&theme=tokyonight" alt="Deshan's Top Languages" />
   </a>
 </div>
 
 <br>
 
-<!-- Top Languages Card -->
+<!-- GitHub Activity Graph (Displays a chart of your contributions) -->
 <div align="center">
   <a href="https://github.com/deshan-h">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshan-h&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" height="195" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deshan-h&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Deshan's Activity Graph" />
   </a>
 </div>
+
 <br>
 
 <h2 align="center">🚀 Highlighted Projects</h2>
