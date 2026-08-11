@@ -21,7 +21,7 @@
 
 ---
 
-> 🎯 **Current Status:** Actively open to new Full-Stack Development opportunities.
+> 🎯 **Current Status:** Currently working on Freelance Projects while actively seeking new Full-Stack Development opportunities.
 
 > 💻 **Previous Role:** Associate Software Engineer at *Parallax Technologies Pvt Ltd*, specializing in full-stack development and scalable architectures. 
 
