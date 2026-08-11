@@ -21,7 +21,9 @@
 
 ---
 
-> 💻 **Current Role:** Associate Software Engineer at *Parallax Technologies Pvt Ltd*, specializing in full-stack development and scalable architectures. 
+> 🎯 **Current Status:** Actively open to new Full-Stack Development opportunities.
+
+> 💻 **Previous Role:** Associate Software Engineer at *Parallax Technologies Pvt Ltd*, specializing in full-stack development and scalable architectures. 
 
 > 🏆 **Key Achievement:** Honored with the **"Star Performer Award" (Dec 2024)** for outstanding project ownership and contributions to organizational success.
 
